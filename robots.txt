@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://axunionu.github.io/JFj/sitemap_index.txt
+Sitemap: https://axunionu.github.io/VuW/sitemap_index.txt
+Sitemap: https://axunionu.github.io/kKR/sitemap_index.txt
+Sitemap: https://axunionu.github.io/uEI/sitemap_index.txt
